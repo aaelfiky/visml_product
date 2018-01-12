@@ -1,0 +1,16 @@
+[
+  {
+    "type": "web",
+    "label": "Vismlservice",
+    "repo": "som3a123/visml",
+    "branch": "develop",
+    "additional": []
+  },
+  {
+    "type": "api",
+    "label": "visml_server",
+    "repo": "phovea/phovea_server",
+    "branch": "develop",
+    "additional": []
+  }
+]
