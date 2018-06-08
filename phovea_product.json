@@ -12,5 +12,13 @@
     "repo": "phovea/phovea_server",
     "branch": "develop",
     "additional": []
+  },
+  {
+    "type": "api",
+    "label": "visml_server_plugin",
+    "repo": "som3a123/visml_server",
+    "branch": "develop",
+    "additional": []
   }
+  
 ]
